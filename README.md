@@ -1,7 +1,7 @@
 ## require
 
 ```
-conda create -n python=3.8
+conda create -n code-generate python=3.8
 conda install jinja2
 # conda install -c anaconda pyyaml
 conda install -c conda-forge ruamel.yaml
